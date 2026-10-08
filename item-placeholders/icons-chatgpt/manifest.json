@@ -1,0 +1,1058 @@
+[
+  {
+    "list": 1,
+    "index": 1,
+    "name_es": "Aguacates",
+    "filename": "aguacates.png"
+  },
+  {
+    "list": 1,
+    "index": 2,
+    "name_es": "Bananos",
+    "filename": "bananos.png"
+  },
+  {
+    "list": 1,
+    "index": 3,
+    "name_es": "Cocos",
+    "filename": "cocos.png"
+  },
+  {
+    "list": 1,
+    "index": 4,
+    "name_es": "Fresas",
+    "filename": "fresas.png"
+  },
+  {
+    "list": 1,
+    "index": 5,
+    "name_es": "Guineos",
+    "filename": "guineos.png"
+  },
+  {
+    "list": 1,
+    "index": 6,
+    "name_es": "Guayaba",
+    "filename": "guayaba.png"
+  },
+  {
+    "list": 1,
+    "index": 7,
+    "name_es": "Limas",
+    "filename": "limas.png"
+  },
+  {
+    "list": 1,
+    "index": 8,
+    "name_es": "Limones",
+    "filename": "limones.png"
+  },
+  {
+    "list": 1,
+    "index": 9,
+    "name_es": "Mangos",
+    "filename": "mangos.png"
+  },
+  {
+    "list": 1,
+    "index": 10,
+    "name_es": "Mango Biche",
+    "filename": "mango-biche.png"
+  },
+  {
+    "list": 1,
+    "index": 11,
+    "name_es": "Manzanas rojas",
+    "filename": "manzanas-rojas.png"
+  },
+  {
+    "list": 1,
+    "index": 12,
+    "name_es": "Manzanas verdes",
+    "filename": "manzanas-verdes.png"
+  },
+  {
+    "list": 1,
+    "index": 13,
+    "name_es": "Maracuyá",
+    "filename": "maracuya.png"
+  },
+  {
+    "list": 1,
+    "index": 14,
+    "name_es": "Moras",
+    "filename": "moras.png"
+  },
+  {
+    "list": 1,
+    "index": 15,
+    "name_es": "Naranjas",
+    "filename": "naranjas.png"
+  },
+  {
+    "list": 1,
+    "index": 16,
+    "name_es": "Papaya",
+    "filename": "papaya.png"
+  },
+  {
+    "list": 1,
+    "index": 17,
+    "name_es": "Piña",
+    "filename": "pina.png"
+  },
+  {
+    "list": 1,
+    "index": 18,
+    "name_es": "Kiwi",
+    "filename": "kiwi.png"
+  },
+  {
+    "list": 1,
+    "index": 19,
+    "name_es": "Sandía",
+    "filename": "sandia.png"
+  },
+  {
+    "list": 1,
+    "index": 20,
+    "name_es": "Uvas",
+    "filename": "uvas.png"
+  },
+  {
+    "list": 1,
+    "index": 21,
+    "name_es": "Ajo",
+    "filename": "ajo.png"
+  },
+  {
+    "list": 1,
+    "index": 22,
+    "name_es": "Arracacha",
+    "filename": "arracacha.png"
+  },
+  {
+    "list": 1,
+    "index": 23,
+    "name_es": "Batatas / Camotes",
+    "filename": "batatas-camotes.png"
+  },
+  {
+    "list": 1,
+    "index": 24,
+    "name_es": "Brócoli",
+    "filename": "brocoli.png"
+  },
+  {
+    "list": 1,
+    "index": 25,
+    "name_es": "Calabacín",
+    "filename": "calabacin.png"
+  },
+  {
+    "list": 2,
+    "index": 1,
+    "name_es": "Calabaza (amarilla)",
+    "filename": "calabaza-amarilla.png"
+  },
+  {
+    "list": 2,
+    "index": 2,
+    "name_es": "Cebolla larga",
+    "filename": "cebolla-larga.png"
+  },
+  {
+    "list": 2,
+    "index": 3,
+    "name_es": "Cebollas moradas",
+    "filename": "cebollas-moradas.png"
+  },
+  {
+    "list": 2,
+    "index": 4,
+    "name_es": "Cidra / Guatila",
+    "filename": "cidra-guatila.png"
+  },
+  {
+    "list": 2,
+    "index": 5,
+    "name_es": "Cilantro",
+    "filename": "cilantro.png"
+  },
+  {
+    "list": 2,
+    "index": 6,
+    "name_es": "Col rizada",
+    "filename": "col-rizada.png"
+  },
+  {
+    "list": 2,
+    "index": 7,
+    "name_es": "Col rizada morada",
+    "filename": "col-rizada-morada.png"
+  },
+  {
+    "list": 2,
+    "index": 8,
+    "name_es": "Coliflor",
+    "filename": "coliflor.png"
+  },
+  {
+    "list": 2,
+    "index": 9,
+    "name_es": "Espárragos",
+    "filename": "esparragos.png"
+  },
+  {
+    "list": 2,
+    "index": 10,
+    "name_es": "Espinaca Baby",
+    "filename": "espinaca-baby.png"
+  },
+  {
+    "list": 2,
+    "index": 11,
+    "name_es": "Habichuelas",
+    "filename": "habichuelas.png"
+  },
+  {
+    "list": 2,
+    "index": 12,
+    "name_es": "Lechuga",
+    "filename": "lechuga.png"
+  },
+  {
+    "list": 2,
+    "index": 13,
+    "name_es": "Mix de lechugas",
+    "filename": "mix-de-lechugas.png"
+  },
+  {
+    "list": 2,
+    "index": 14,
+    "name_es": "Papa dulce",
+    "filename": "papa-dulce.png"
+  },
+  {
+    "list": 2,
+    "index": 15,
+    "name_es": "Papas",
+    "filename": "papas.png"
+  },
+  {
+    "list": 2,
+    "index": 16,
+    "name_es": "Pepinos",
+    "filename": "pepinos.png"
+  },
+  {
+    "list": 2,
+    "index": 17,
+    "name_es": "Perejil liso",
+    "filename": "perejil-liso.png"
+  },
+  {
+    "list": 2,
+    "index": 18,
+    "name_es": "Pimientos / Pimentones",
+    "filename": "pimientos-pimentones.png"
+  },
+  {
+    "list": 2,
+    "index": 19,
+    "name_es": "Plátanos - maduros",
+    "filename": "platanos-maduros.png"
+  },
+  {
+    "list": 2,
+    "index": 20,
+    "name_es": "Plátanos - verdes",
+    "filename": "platanos-verdes.png"
+  },
+  {
+    "list": 2,
+    "index": 21,
+    "name_es": "Remolacha",
+    "filename": "remolacha.png"
+  },
+  {
+    "list": 2,
+    "index": 22,
+    "name_es": "Repollitas",
+    "filename": "repollitas.png"
+  },
+  {
+    "list": 2,
+    "index": 23,
+    "name_es": "Rugula",
+    "filename": "rugula.png"
+  },
+  {
+    "list": 2,
+    "index": 24,
+    "name_es": "Yuca",
+    "filename": "yuca.png"
+  },
+  {
+    "list": 2,
+    "index": 25,
+    "name_es": "Zanahorias",
+    "filename": "zanahorias.png"
+  },
+  {
+    "list": 3,
+    "index": 1,
+    "name_es": "Ahuyama zapayo",
+    "filename": "ahuyama-zapayo.png"
+  },
+  {
+    "list": 3,
+    "index": 2,
+    "name_es": "Arepas Caseras",
+    "filename": "arepas-caseras.png"
+  },
+  {
+    "list": 3,
+    "index": 3,
+    "name_es": "Cereal de Quinua",
+    "filename": "cereal-de-quinua.png"
+  },
+  {
+    "list": 3,
+    "index": 4,
+    "name_es": "Camarones",
+    "filename": "camarones.png"
+  },
+  {
+    "list": 3,
+    "index": 5,
+    "name_es": "Muslos de pollo (campesino locales)",
+    "filename": "muslos-de-pollo-campesino-locales.png"
+  },
+  {
+    "list": 3,
+    "index": 6,
+    "name_es": "Pechugas de pollo (campesino locales)",
+    "filename": "pechugas-de-pollo-campesino-locales.png"
+  },
+  {
+    "list": 3,
+    "index": 7,
+    "name_es": "Carne de res - solomito",
+    "filename": "carne-de-res-solomito.png"
+  },
+  {
+    "list": 3,
+    "index": 8,
+    "name_es": "Carne de res - otra",
+    "filename": "carne-de-res-otra.png"
+  },
+  {
+    "list": 3,
+    "index": 9,
+    "name_es": "Carne molida",
+    "filename": "carne-molida.png"
+  },
+  {
+    "list": 3,
+    "index": 10,
+    "name_es": "Chicharron",
+    "filename": "chicharron.png"
+  },
+  {
+    "list": 3,
+    "index": 11,
+    "name_es": "Chuletas de cerdo",
+    "filename": "chuletas-de-cerdo.png"
+  },
+  {
+    "list": 3,
+    "index": 12,
+    "name_es": "Cola de res",
+    "filename": "cola-de-res.png"
+  },
+  {
+    "list": 3,
+    "index": 13,
+    "name_es": "Punta de anca",
+    "filename": "punta-de-anca.png"
+  },
+  {
+    "list": 3,
+    "index": 14,
+    "name_es": "Frijoles negros",
+    "filename": "frijoles-negros.png"
+  },
+  {
+    "list": 3,
+    "index": 15,
+    "name_es": "Frijoles rojos",
+    "filename": "frijoles-rojos.png"
+  },
+  {
+    "list": 3,
+    "index": 16,
+    "name_es": "Bicarbonato",
+    "filename": "bicarbonato.png"
+  },
+  {
+    "list": 3,
+    "index": 17,
+    "name_es": "Granola - Keto",
+    "filename": "granola-keto.png"
+  },
+  {
+    "list": 3,
+    "index": 18,
+    "name_es": "Harina de almendras",
+    "filename": "harina-de-almendras.png"
+  },
+  {
+    "list": 3,
+    "index": 19,
+    "name_es": "Harina de horno",
+    "filename": "harina-de-horno.png"
+  },
+  {
+    "list": 3,
+    "index": 20,
+    "name_es": "Harina de maíz con quinua",
+    "filename": "harina-de-maiz-con-quinua.png"
+  },
+  {
+    "list": 3,
+    "index": 21,
+    "name_es": "Harina de maíz (para arepas)",
+    "filename": "harina-de-maiz-para-arepas.png"
+  },
+  {
+    "list": 3,
+    "index": 22,
+    "name_es": "Harina integral",
+    "filename": "harina-integral.png"
+  },
+  {
+    "list": 3,
+    "index": 23,
+    "name_es": "Lentejas",
+    "filename": "lentejas.png"
+  },
+  {
+    "list": 3,
+    "index": 24,
+    "name_es": "Levadura en polvo",
+    "filename": "levadura-en-polvo.png"
+  },
+  {
+    "list": 3,
+    "index": 25,
+    "name_es": "Pan (integral)",
+    "filename": "pan-integral.png"
+  },
+  {
+    "list": 4,
+    "index": 1,
+    "name_es": "Pasta (de almendras)",
+    "filename": "pasta-de-almendras.png"
+  },
+  {
+    "list": 4,
+    "index": 2,
+    "name_es": "Pasta (integral sin gluten)",
+    "filename": "pasta-integral-sin-gluten.png"
+  },
+  {
+    "list": 4,
+    "index": 3,
+    "name_es": "Quinua",
+    "filename": "quinua.png"
+  },
+  {
+    "list": 4,
+    "index": 4,
+    "name_es": "Tortillas",
+    "filename": "tortillas.png"
+  },
+  {
+    "list": 4,
+    "index": 5,
+    "name_es": "Huevos",
+    "filename": "huevos.png"
+  },
+  {
+    "list": 4,
+    "index": 6,
+    "name_es": "Jamón de cerdo",
+    "filename": "jamon-de-cerdo.png"
+  },
+  {
+    "list": 4,
+    "index": 7,
+    "name_es": "Jamón de pavo",
+    "filename": "jamon-de-pavo.png"
+  },
+  {
+    "list": 4,
+    "index": 8,
+    "name_es": "Pavo molido",
+    "filename": "pavo-molido.png"
+  },
+  {
+    "list": 4,
+    "index": 9,
+    "name_es": "Queso campesino",
+    "filename": "queso-campesino.png"
+  },
+  {
+    "list": 4,
+    "index": 10,
+    "name_es": "Queso de cabra / obeja",
+    "filename": "queso-de-cabra-obeja.png"
+  },
+  {
+    "list": 4,
+    "index": 11,
+    "name_es": "Queso parmesano",
+    "filename": "queso-parmesano.png"
+  },
+  {
+    "list": 4,
+    "index": 12,
+    "name_es": "Yogur griego",
+    "filename": "yogur-griego.png"
+  },
+  {
+    "list": 4,
+    "index": 13,
+    "name_es": "Yogur natural",
+    "filename": "yogur-natural.png"
+  },
+  {
+    "list": 4,
+    "index": 14,
+    "name_es": "Agua de coco",
+    "filename": "agua-de-coco.png"
+  },
+  {
+    "list": 4,
+    "index": 15,
+    "name_es": "Café instantáneo (Nescafe)",
+    "filename": "cafe-instantaneo-nescafe.png"
+  },
+  {
+    "list": 4,
+    "index": 16,
+    "name_es": "Café molida",
+    "filename": "cafe-molida.png"
+  },
+  {
+    "list": 4,
+    "index": 17,
+    "name_es": "Chocolate caliente",
+    "filename": "chocolate-caliente.png"
+  },
+  {
+    "list": 4,
+    "index": 18,
+    "name_es": "Club Colombia - Dorada",
+    "filename": "club-colombia-dorada.png"
+  },
+  {
+    "list": 4,
+    "index": 19,
+    "name_es": "Club Colombia - Negra",
+    "filename": "club-colombia-negra.png"
+  },
+  {
+    "list": 0,
+    "index": 0,
+    "name_es": "Lambrusco",
+    "filename": "lambrusco.png"
+  },
+  {
+    "list": 4,
+    "index": 20,
+    "name_es": "Jugos naturales",
+    "filename": "jugos-naturales.png"
+  },
+  {
+    "list": 4,
+    "index": 21,
+    "name_es": "Leche de almendra",
+    "filename": "leche-de-almendra.png"
+  },
+  {
+    "list": 0,
+    "index": 0,
+    "name_es": "Leche de vaca",
+    "filename": "leche-de-vaca.png"
+  },
+  {
+    "list": 4,
+    "index": 22,
+    "name_es": "Leche de vaca (deslactosada)",
+    "filename": "leche-de-vaca-deslactosada.png"
+  },
+  {
+    "list": 4,
+    "index": 23,
+    "name_es": "Té (aromatica)",
+    "filename": "te-aromatica.png"
+  },
+  {
+    "list": 4,
+    "index": 24,
+    "name_es": "Vino - blanco",
+    "filename": "vino-blanco.png"
+  },
+  {
+    "list": 4,
+    "index": 25,
+    "name_es": "Vino - rosé",
+    "filename": "vino-rose.png"
+  },
+  {
+    "list": 5,
+    "index": 1,
+    "name_es": "Vino - tinto",
+    "filename": "vino-tinto.png"
+  },
+  {
+    "list": 5,
+    "index": 2,
+    "name_es": "Whisky - Glenlivet",
+    "filename": "whisky-glenlivet.png"
+  },
+  {
+    "list": 5,
+    "index": 3,
+    "name_es": "Azucar",
+    "filename": "azucar.png"
+  },
+  {
+    "list": 5,
+    "index": 4,
+    "name_es": "Azúcar morena",
+    "filename": "azucar-morena.png"
+  },
+  {
+    "list": 5,
+    "index": 4,
+    "name_es": "Canela",
+    "filename": "canela.png"
+  },
+  {
+    "list": 5,
+    "index": 5,
+    "name_es": "Comino",
+    "filename": "comino.png"
+  },
+  {
+    "list": 5,
+    "index": 6,
+    "name_es": "Extracto de vainilla",
+    "filename": "extracto-de-vainilla.png"
+  },
+  {
+    "list": 5,
+    "index": 7,
+    "name_es": "Ghee",
+    "filename": "ghee.png"
+  },
+  {
+    "list": 5,
+    "index": 8,
+    "name_es": "Mantequilla (sin sal)",
+    "filename": "mantequilla-sin-sal.png"
+  },
+  {
+    "list": 5,
+    "index": 9,
+    "name_es": "Marmalade",
+    "filename": "marmalade.png"
+  },
+  {
+    "list": 5,
+    "index": 10,
+    "name_es": "Mayonesa con limón",
+    "filename": "mayonesa-con-limon.png"
+  },
+  {
+    "list": 5,
+    "index": 11,
+    "name_es": "Miel",
+    "filename": "miel.png"
+  },
+  {
+    "list": 5,
+    "index": 12,
+    "name_es": "Mostaza",
+    "filename": "mostaza.png"
+  },
+  {
+    "list": 5,
+    "index": 13,
+    "name_es": "Orégano",
+    "filename": "oregano.png"
+  },
+  {
+    "list": 5,
+    "index": 14,
+    "name_es": "Panela",
+    "filename": "panela.png"
+  },
+  {
+    "list": 5,
+    "index": 15,
+    "name_es": "Pasta de tomate",
+    "filename": "pasta-de-tomate.png"
+  },
+  {
+    "list": 5,
+    "index": 16,
+    "name_es": "Pimentón",
+    "filename": "pimenton.png"
+  },
+  {
+    "list": 5,
+    "index": 17,
+    "name_es": "Sal (normal)",
+    "filename": "sal-normal.png"
+  },
+  {
+    "list": 5,
+    "index": 18,
+    "name_es": "Salsa de tomate (ketchup)",
+    "filename": "salsa-de-tomate-ketchup.png"
+  },
+  {
+    "list": 5,
+    "index": 19,
+    "name_es": "Salsa picante",
+    "filename": "salsa-picante.png"
+  },
+  {
+    "list": 5,
+    "index": 20,
+    "name_es": "Salsa rosada",
+    "filename": "salsa-rosada.png"
+  },
+  {
+    "list": 5,
+    "index": 21,
+    "name_es": "Vinagre balsámico",
+    "filename": "vinagre-balsamico.png"
+  },
+  {
+    "list": 5,
+    "index": 22,
+    "name_es": "Cacao almendras",
+    "filename": "cacao-almendras.png"
+  },
+  {
+    "list": 5,
+    "index": 23,
+    "name_es": "Chips",
+    "filename": "chips.png"
+  },
+  {
+    "list": 5,
+    "index": 24,
+    "name_es": "Chocolate de Hershey",
+    "filename": "chocolate-de-hershey.png"
+  },
+  {
+    "list": 5,
+    "index": 25,
+    "name_es": "Chocolate oscuro",
+    "filename": "chocolate-oscuro.png"
+  },
+  {
+    "list": 6,
+    "index": 1,
+    "name_es": "Especial (mezcla de nueces / fiestas)",
+    "filename": "especial-mezcla-de-nueces-fiestas.png"
+  },
+  {
+    "list": 6,
+    "index": 2,
+    "name_es": "Galletas para queso",
+    "filename": "galletas-para-queso.png"
+  },
+  {
+    "list": 6,
+    "index": 3,
+    "name_es": "Galletas saladas (integrales)",
+    "filename": "galletas-saladas-integrales.png"
+  },
+  {
+    "list": 6,
+    "index": 4,
+    "name_es": "Gelatina",
+    "filename": "gelatina.png"
+  },
+  {
+    "list": 6,
+    "index": 5,
+    "name_es": "Marshmallows",
+    "filename": "marshmallows.png"
+  },
+  {
+    "list": 6,
+    "index": 6,
+    "name_es": "Palomitas de maíz (natural)",
+    "filename": "palomitas-de-maiz-natural.png"
+  },
+  {
+    "list": 6,
+    "index": 7,
+    "name_es": "* Saltines",
+    "filename": "saltines.png"
+  },
+  {
+    "list": 6,
+    "index": 8,
+    "name_es": "Semillas de chía",
+    "filename": "semillas-de-chia.png"
+  },
+  {
+    "list": 6,
+    "index": 9,
+    "name_es": "Semillas de girasol",
+    "filename": "semillas-de-girasol.png"
+  },
+  {
+    "list": 6,
+    "index": 10,
+    "name_es": "Tosh (fresa)",
+    "filename": "tosh-fresa.png"
+  },
+  {
+    "list": 6,
+    "index": 11,
+    "name_es": "Tosh (miel)",
+    "filename": "tosh-miel.png"
+  },
+  {
+    "list": 6,
+    "index": 12,
+    "name_es": "Bolsas para baños",
+    "filename": "bolsas-para-banos.png"
+  },
+  {
+    "list": 6,
+    "index": 13,
+    "name_es": "Esponja",
+    "filename": "esponja.png"
+  },
+  {
+    "list": 6,
+    "index": 14,
+    "name_es": "Esponja raspadora",
+    "filename": "esponja-raspadora.png"
+  },
+  {
+    "list": 6,
+    "index": 15,
+    "name_es": "Jabón para platos - Axion",
+    "filename": "jabon-para-platos-axion.png"
+  },
+  {
+    "list": 6,
+    "index": 16,
+    "name_es": "BioVarsol Blanco",
+    "filename": "biovarsol-blanco.png"
+  },
+  {
+    "list": 6,
+    "index": 17,
+    "name_es": "Arándanos (solo orgánico)",
+    "filename": "arandanos-solo-organico.png"
+  },
+  {
+    "list": 6,
+    "index": 18,
+    "name_es": "Tomates (solo orgánico)",
+    "filename": "tomates-solo-organico.png"
+  },
+  {
+    "list": 6,
+    "index": 19,
+    "name_es": "Almendras",
+    "filename": "almendras.png"
+  },
+  {
+    "list": 6,
+    "index": 20,
+    "name_es": "Arroz blanco",
+    "filename": "arroz-blanco.png"
+  },
+  {
+    "list": 6,
+    "index": 21,
+    "name_es": "Arroz integral",
+    "filename": "arroz-integral.png"
+  },
+  {
+    "list": 6,
+    "index": 22,
+    "name_es": "Avena",
+    "filename": "avena.png"
+  },
+  {
+    "list": 6,
+    "index": 23,
+    "name_es": "Granola",
+    "filename": "granola.png"
+  },
+  {
+    "list": 6,
+    "index": 24,
+    "name_es": "Nueces",
+    "filename": "nueces.png"
+  },
+  {
+    "list": 6,
+    "index": 25,
+    "name_es": "Pecanos",
+    "filename": "pecanos.png"
+  },
+  {
+    "list": 7,
+    "index": 1,
+    "name_es": "Atún enlatado",
+    "filename": "atun-enlatado.png"
+  },
+  {
+    "list": 7,
+    "index": 2,
+    "name_es": "Pescado fresco (salmón)",
+    "filename": "pescado-fresco-salmon.png"
+  },
+  {
+    "list": 7,
+    "index": 3,
+    "name_es": "Pescado fresco (tilapia)",
+    "filename": "pescado-fresco-tilapia.png"
+  },
+  {
+    "list": 7,
+    "index": 4,
+    "name_es": "Queso mozzarella",
+    "filename": "queso-mozzarella.png"
+  },
+  {
+    "list": 7,
+    "index": 5,
+    "name_es": "Aceita de coco",
+    "filename": "aceita-de-coco.png"
+  },
+  {
+    "list": 7,
+    "index": 6,
+    "name_es": "Aceite de oliva",
+    "filename": "aceite-de-oliva.png"
+  },
+  {
+    "list": 7,
+    "index": 7,
+    "name_es": "Jarabe de arce",
+    "filename": "jarabe-de-arce.png"
+  },
+  {
+    "list": 7,
+    "index": 8,
+    "name_es": "Mayonesa",
+    "filename": "mayonesa.png"
+  },
+  {
+    "list": 7,
+    "index": 9,
+    "name_es": "Pimienta negra",
+    "filename": "pimienta-negra.png"
+  },
+  {
+    "list": 7,
+    "index": 10,
+    "name_es": "Sal himalaya",
+    "filename": "sal-himalaya.png"
+  },
+  {
+    "list": 7,
+    "index": 11,
+    "name_es": "Vinagre blanco (para limpiar)",
+    "filename": "vinagre-blanco-para-limpiar.png"
+  },
+  {
+    "list": 7,
+    "index": 12,
+    "name_es": "Aluminio",
+    "filename": "aluminio.png"
+  },
+  {
+    "list": 7,
+    "index": 13,
+    "name_es": "Bolsas de basura - grandes",
+    "filename": "bolsas-de-basura-grandes.png"
+  },
+  {
+    "list": 7,
+    "index": 14,
+    "name_es": "Bolsas de basura - small",
+    "filename": "bolsas-de-basura-small.png"
+  },
+  {
+    "list": 7,
+    "index": 15,
+    "name_es": "Bolsas grandes para congelador",
+    "filename": "bolsas-grandes-para-congelador.png"
+  },
+  {
+    "list": 7,
+    "index": 16,
+    "name_es": "Bolsas para bocadillos",
+    "filename": "bolsas-para-bocadillos.png"
+  },
+  {
+    "list": 7,
+    "index": 17,
+    "name_es": "Bolsas para sándwiches",
+    "filename": "bolsas-para-sandwiches.png"
+  },
+  {
+    "list": 7,
+    "index": 18,
+    "name_es": "Detergente para ropa",
+    "filename": "detergente-para-ropa.png"
+  },
+  {
+    "list": 7,
+    "index": 19,
+    "name_es": "Envoltura de plástico",
+    "filename": "envoltura-de-plastico.png"
+  },
+  {
+    "list": 7,
+    "index": 20,
+    "name_es": "Jabón - lavaplatos - Cascade Platinum",
+    "filename": "jabon-lavaplatos-cascade-platinum.png"
+  },
+  {
+    "list": 7,
+    "index": 21,
+    "name_es": "Limpiador multiusos",
+    "filename": "limpiador-multiusos.png"
+  },
+  {
+    "list": 7,
+    "index": 22,
+    "name_es": "Papel higiénico",
+    "filename": "papel-higienico.png"
+  },
+  {
+    "list": 7,
+    "index": 23,
+    "name_es": "Toallas de papel",
+    "filename": "toallas-de-papel.png"
+  }
+]
